@@ -1,2 +1,2 @@
 #!/bin/bash
-hello-world-server
+export PORT=3000; hello-world-server
