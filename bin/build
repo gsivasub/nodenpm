@@ -1,2 +1,3 @@
 #!/bin/bash
+npm config set registry "http://engci-maven.cisco.com/artifactory/api/npm/SBG-CloudInfra-npm"
 npm install -g hello-world-server
