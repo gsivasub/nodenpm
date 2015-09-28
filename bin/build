@@ -1,5 +1,5 @@
 #!/bin/bash
-#npm config set registry "http://engci-maven.cisco.com/artifactory/api/npm/SBG-CloudInfra-npm"#
+#npm config set registry "http://engci-maven.cisco.com/artifactory/api/npm/SBG-CloudInfra-npm"
 #npm config set registry "http://128.107.2.158:9676/repo"
 npm config set registry http://128.107.2.158:8081/artifactory/api/npm/npm-virtual
 npm install -g hello-world-server
